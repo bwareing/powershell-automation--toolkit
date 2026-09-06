@@ -1,2 +1,2 @@
 # powershell-automation--toolkit
-PowerShell Scripts and automation projects focused on system monitoring , trouble shooting and automation
+PowerShell Scripts and automation projects focused on system monitoring, troubleshooting, and automation
